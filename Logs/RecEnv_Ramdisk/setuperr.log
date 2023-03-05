@@ -1,0 +1,8 @@
+﻿2023-03-04 15:47:44, Error                        CBootMgrLog::CreateInstance() failed. 0x00000002[gle=0x00000002]
+2023-03-04 15:47:44, Error                        Failed to check OS architecture. 0x00000490[gle=0x00000002]
+2023-03-04 15:47:44, Error                        [recenv.exe] winreArePathsEqualFailed to get attributes for D:\Windows: 0x2
+2023-03-04 15:47:44, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2023-03-04 15:47:44, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2023-03-04 15:47:44, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2023-03-04 15:47:44, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2023-03-04 15:47:44, Error                        Invalid path specified
